@@ -1,13 +1,17 @@
 ## 👋 Hello World! I’m Alex! 
-#### I have always been intrigued with computers since I was a kid. My first piece of hardware was an HC-91 (a Spectrum clone produced in Romania), on which I wrote my first piece of code in BASIC. Following that, I took a Computer Science class in high school and became acquainted with Borland Pascal and C. Those years instilled in me the fundamentals of coding (variable use, loops, and debugging), which have proven to be extremely useful when I start to code again. Even though I did not feel compelled to pursue a career in technology at that moment, instead opting for an Economics major, I eventually realised that I had a different calling. As a result, I began to actively study and practise coding regularly.
+My path to becoming a software developer started back in high school, where I first dipped my toes into Computer Science with Borland Pascal and C. Those early years laid the foundation for my coding journey, teaching me the basics like variable use, loops, and how to debug. 
 
-#### 👀 My main interest is backend development, with Python and its frameworks - Django & Flask - being my focus right now.
+With no Internet tutorials available at the time, I took a break from coding for approximately two decades. During my tenure in sales and procurement, however, I gained a range of soft skills that have proven invaluable in my transition to software development. From effective communication with stakeholders and team members to meticulous attention to detail and adaptability in the face of setbacks, each experience added depth to my professional toolkit.
 
-#### 🌱 I’m currently learning Django, after which I will dedicate my learning time to SQL
+It wasn't long before I realized that my true passion lay in returning to my roots. After spending about a year and a half actively studying and coding in Python, I landed my first job in the Tech industry.
+
+Looking back on my two years in this field, I've learned a lot about myself. I enjoy the puzzle-solving aspect of debugging, find fulfilment in mentoring others, and thrive on continuous learning and skill improvement. Each day brings new challenges, and I'm always eager to embrace them and grow.
+
+#### 👀 My main interest is backend development (Python + Django).
 
 #### 💞️ I’m looking to collaborate on open-source projects that can enhance my learning and comprehension.
  
-#### 📫 You can reach me here, on [Twitter](https://twitter.com/AlexStanuta) and [LinkedIn](https://www.linkedin.com/in/alexstanuta/)
+#### 📫 You can reach me here and on [LinkedIn](https://www.linkedin.com/in/alexstanuta/)
 
 <!---
 alex-stanuta/alex-stanuta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
